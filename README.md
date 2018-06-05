@@ -2,10 +2,10 @@
 Copy CSS from devtools and past JSS 
 
 ## Installation
-Guide https://macosxautomation.com/automator/serviceinstall/index.html
+Clone / Download the repo and click on the workflow file to install.
 
 ## Usage
-Clone / Download the repo and click on the workflow file to install.
+![image](https://github.com/id0Sch/CSS-to-JSS-workflow/raw/master/Pasted_Image_6_5_18__11_36_AM.png)
 
 output
 ``` javascript
