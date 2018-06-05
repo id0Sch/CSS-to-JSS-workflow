@@ -5,7 +5,7 @@ Copy CSS from devtools and past JSS
 Guide https://macosxautomation.com/automator/serviceinstall/index.html
 
 ## Usage
-![alt text](https://github.com/id0Sch/JSS.workflow/raw/master/Pasted_Image_6_5_18__11_36_AM.png)
+Clone / Download the repo and click on the workflow file to install.
 
 output
 ``` javascript
